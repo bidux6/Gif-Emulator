@@ -1,7 +1,7 @@
 # Gif-Emulator 📷
 ## Breve Descrição 📃
 O Gif-Emulator é exatamente o que o nome diz: faz nada mais do que somente reproduzir gifs. Esse programa é simplesmente uma forma mais divertida de criar janelas com GIFs e, invez de aparecer um monte de botões na tela, tudo é preparado pelo usuário antes para que nada te atrapalhe. Isso pode ser útil para aqueles que gostariam de reproduzir GIFs em sua área de trabalho, como para um vídeo do youtube, por exemplo.  
-<img width="814" height="624" alt="Demonstração" src="https://github.com/user-attachments/assets/a4901ab9-81f3-4006-9e34-a1816497b18e" />  
+<img width="814" height="624" alt="Demonstração" src="READMEASSETS/Demonstração1" />  
 <figcaption><i>Figura 1: Usuário usando aplicativo pela primeira vez.</i></figcaption>
 
 
@@ -10,7 +10,7 @@ A única coisa que você precisará, além do próprio programa, é o aplicativo
 
 ## Exemplo de uso 🧩
 <figure>
-  <img width="978" height="466" alt="Demonstração2" src="https://github.com/user-attachments/assets/c81b177b-ad16-44eb-a19e-1980d5b4b9ce" />
+  <img width="978" height="466" alt="Demonstração2" src="READMEASSETS/Demonstração2" />
   <figcaption><i>Figura 2: Um usuário lendo um texto junto com um hamster como companhia.</i></figcaption>
 </figure>
 
@@ -29,5 +29,3 @@ O programa contêm poucos controles, e eles são:
 ● Mudar o tamanho da janela arrastando os cantos, como quase qualquer outra janela;  
 ● Pressione "B" para remover as bordas;  
 ● Mover a janela arrastando o canto superior
-
-<img width="814" height="624" alt="Demonstração" src="https://github.com/user-attachments/assets/3002e1a5-6664-416d-8899-8ff1c6531003" />
